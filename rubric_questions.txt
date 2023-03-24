@@ -1,0 +1,27 @@
+Interview Readiness:
+What are 3 advantages of deploying using Model Serving methods Vs. deploying on GitHub Pages or HuggingFace for free?
+
+1 Scalability: You can add more machines in case the app gets more traffic.
+2 Data Governance: You can choose whether the model and data is hosted e.g. on European servers.
+3 Flexibility: You can choose whatever setup you want and change it over time.
+
+Interview Readiness:
+What is ML model deployment?
+
+ML model deployment is the act of making a machine learning model available for practical use by deploying it to a production environment. This process includes steps like packaging the trained model and (possibly) integrating it into a larger application or system.
+
+Interview Readiness:
+What is Causal Inference and How Does It Work?
+
+Causal Inference aims to understand the causal relationships between variables. So, it is not only trying to find correlations between variables. 
+
+A common method for causal inference are random controlled trials in which e.g. people are assigned to different treatment groups and then afterwards the outcomes are measured to see what treatment caused it. Other methods for causal inference include natural experiments, regression discontinuity and propensity score matching.
+
+Interview Readiness:
+What is serverless deployment and how its compared with deployment on server?
+
+Serverless deployment means that the cloud provider does all the infrastructure management and the user only needs to provide the code. Hence, the server is abstracted away from the user.
+
+Deployment on server requires the user to also manage the server itself and e.g. update the OS. 
+
+Serverless deployment can be cheaper, more scalable, faster and less maintenance heavy.
